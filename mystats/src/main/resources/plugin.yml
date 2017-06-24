@@ -1,0 +1,12 @@
+name: MyStats
+main: me.perotin.mystats.MyStats
+author: Perotin
+version: 1.0-SNAPSHOT
+database: true
+description: MySQL dependant plugin that tracks the stats of players and displays it in a neat GUI
+
+commands:
+   mystats:
+      usage: /mystats <player:optional>
+      description: Open's stats gui of a player
+      permission: mystats.use

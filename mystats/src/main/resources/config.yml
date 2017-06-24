@@ -1,0 +1,7 @@
+# Information to connect to database
+
+user: "root"
+password: "123"
+name: "SomeDatabase"
+host: "localhost"
+   

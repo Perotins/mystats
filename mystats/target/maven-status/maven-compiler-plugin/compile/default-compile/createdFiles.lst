@@ -1,0 +1,8 @@
+me/perotin/mystats/MyStats$1.class
+me/perotin/mystats/events/MyBlockEvents.class
+me/perotin/mystats/MyStats.class
+me/perotin/mystats/events/MyChatEvent.class
+me/perotin/mystats/events/MyJoinEvent.class
+me/perotin/mystats/events/MyKillEvents.class
+me/perotin/mystats/events/MyInventoryEvent.class
+me/perotin/mystats/commands/MyStatsCommand.class
